@@ -4,7 +4,7 @@ public class Main {
     }
     public Main(){
         NonRecursiveFunctions nrf = new NonRecursiveFunctions();
-        nrf.FunctionA();
+        nrf.functionA();
         RecursiveCounter rc = new RecursiveCounter();
         //rc.count(0);
     }
