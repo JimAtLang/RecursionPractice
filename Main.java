@@ -4,8 +4,8 @@ public class Main {
     }
     public Main(){
         NonRecursiveFunctions nrf = new NonRecursiveFunctions();
-        nrf.functionA();
+        //nrf.functionA();
         RecursiveCounter rc = new RecursiveCounter();
-        //rc.count(0);
+        rc.count(0);
     }
 }
